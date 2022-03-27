@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo Aplikasi</string>
+    <string name="txUsername">Username</string>
+    <string name="txPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvCreateAccount">Create Account</string>
+</resources>
